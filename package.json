@@ -14,7 +14,15 @@
   "author": "El Café de los Sentidos, S. de R.L. de C.V. <contacto@cafedelossentidos.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanB2019/random-coffee-varieties-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuanB2019/random-coffee-varieties-generator/issues"
+  },
+  "homepage": "https://github.com/JuanB2019/random-coffee-varieties-generator#readme"
 }
