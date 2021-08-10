@@ -1,6 +1,6 @@
 {
   "name": "random-coffee-varieties-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random Coffee Varieties Generator according to the World Coffee Research",
   "main": "src/index.js",
   "scripts": {
