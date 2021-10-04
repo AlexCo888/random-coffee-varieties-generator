@@ -1,6 +1,6 @@
 # random-coffee-varieties-generator
 
-We love coffe but there is no many people involved in this industry with a technology background. I created this simple Random Coffee Varieties Generator according to the Arabic varieties officially recognized by the World Coffee Research (https://varieties.worldcoffeeresearch.org/varieties).
+We love coffe but there is no many people involved in this industry with a technology background. I created this simple Random Coffee Varieties Generator (https://www.npmjs.com/package/random-coffee-varieties-generator) according to the Arabic varieties officially recognized by the World Coffee Research (https://varieties.worldcoffeeresearch.org/varieties).
 
 ## Install
 
